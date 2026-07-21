@@ -1,0 +1,6 @@
+{
+  "name": "LaunchNova AI",
+  "description": "An AI-powered website copywriting assistant that generates optimized marketing copy for small businesses and freelancers, complete with a clean, professional, live interactive preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
