@@ -3,6 +3,7 @@
 **AI-powered brand, content, SEO & proposal generator for freelancers and small web agencies.**
 
 🔗 **Live App:** [https://launchnova-ai-17778952825.asia-southeast1.run.app/](https://launchnova-ai-17778952825.asia-southeast1.run.app/)
+
 📦 **GitHub Repo:** [https://github.com/afrozkhan890/launchnova-ai](https://github.com/afrozkhan890/launchnova-ai)
 
 ---
