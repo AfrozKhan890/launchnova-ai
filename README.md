@@ -2,7 +2,7 @@
 
 **AI-powered brand, content, SEO & proposal generator for freelancers and small web agencies.**
 
-🔗 **Live App:** [https://launchnova-ai.ai.studio/](https://launchnova-ai.ai.studio/)
+🔗 **Live App:** [https://launchnova-ai-17778952825.asia-southeast1.run.app/](https://launchnova-ai-17778952825.asia-southeast1.run.app/)
 📦 **GitHub Repo:** [https://github.com/afrozkhan890/launchnova-ai](https://github.com/afrozkhan890/launchnova-ai)
 
 ---
@@ -24,7 +24,7 @@ Freelance web developers and small agencies spend hours on every new client writ
 
 ## b. Live URL
 
-👉 **[https://launchnova-ai.ai.studio/](https://launchnova-ai.ai.studio/)**
+👉 **[https://launchnova-ai-17778952825.asia-southeast1.run.app/](https://launchnova-ai-17778952825.asia-southeast1.run.app/)**
 
 Open it, fill in a business's details on the left panel, and click **"Generate All Assets with AI."**
 
